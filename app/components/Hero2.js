@@ -11,7 +11,7 @@ const Hero2 = () => {
     <h1>Creative equity.</h1>
     <h1>Collective impact.</h1>
     
-    <p className="text-base md:text-lg mt-5">We help brands refocus their marketing lens — because creative equity is not just the smart thing to do, it's the right thing to do. 
+    <p className="text-base md:text-lg mt-5">We help brands refocus their marketing lens — because creative equity is not just the smart thing to do, it&apos;s the right thing to do. 
     It leads to disruptive creativity that moves the culture — and the world.</p>
 
 
